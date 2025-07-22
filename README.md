@@ -1,4 +1,4 @@
-# EmotionSense 😄🔍  
+# Emotion Detector 😄🔍  
 An AI-powered web app that detects emotions in text using IBM Watson's Natural Language Processing API, built with Python and Flask.
 
 ## 🧠 Overview
