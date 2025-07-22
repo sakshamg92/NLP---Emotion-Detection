@@ -2,7 +2,7 @@
 An AI-powered web app that detects emotions in text using IBM Watson's Natural Language Processing API, built with Python and Flask.
 
 ## 🧠 Overview
-EmotionSense is a personal project developed as part of the “Developing AI Applications with Python and Flask” course on Coursera. The app leverages IBM Watson NLP to analyze user-submitted text and return the dominant emotion detected. It's lightweight, interactive, and showcases key backend skills like API consumption, error handling, and unit testing.
+It is a personal project developed as part of the “Developing AI Applications with Python and Flask” course on Coursera. The app leverages IBM Watson NLP to analyze user-submitted text and return the dominant emotion detected. It's lightweight, interactive, and showcases key backend skills like API consumption, error handling, and unit testing.
 
 ## 🚀 Features
 - 🧪 Emotion detection via IBM Watson NLP  
